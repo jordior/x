@@ -85,5 +85,5 @@ jobs:
         shell: bash
       - name: deploy
         run: |
-          sleep 300
+          #sleep 300
           echo "🌱 🌱 🌱 🌱 🌱 "
